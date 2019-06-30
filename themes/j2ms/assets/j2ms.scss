@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+$alabaster: #FBFBFB;
+$opal: #ABC6C5;
+$buttercup: #F3BC1E;
+$wildblueyonder: #7C95B3;
+$pickledbluewood: #324E57;
+
+$primary: $pickledbluewood;
+$link: $wildblueyonder;
+$link-hover: $buttercup;
+
+@import "bulma/bulma";
