@@ -1,6 +1,5 @@
 baseURL = "http://j2.ms/"
 languageCode = "en-us"
-theme = "j2ms"
 title = "j2.ms"
 
 [params]
